@@ -18,7 +18,7 @@
 ## 📸 Digital Experience
 <div align="center">
   <!-- DHYAN DEIN: Is image ko dekhne ke liye apne repo me "1001023917.jpg" zaroor upload karein -->
-  <img src="1001023917.jpg" alt="Mohammad Aquib Portfolio Interface" width="600" style="border-radius: 15px; box-shadow: 0px 5px 20px rgba(232, 182, 44, 0.2);">
+  <img src="Blog.png" alt="Mohammad Aquib Portfolio Interface" width="600" style="border-radius: 15px; box-shadow: 0px 5px 20px rgba(232, 182, 44, 0.2);">
   <p><i>A glimpse into my personal digital space</i></p>
 </div>
 
@@ -57,9 +57,9 @@ The source code, UI/UX design, personal images, data, and overall architecture c
 
 You are welcome to visit the live link to experience the design, but no part of this project may be reused or hosted under a different name.
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=footer"/>
-</div>
+</div> -->
 
 <br/>
 <br/>
@@ -79,13 +79,13 @@ You are welcome to visit the live link to experience the design, but no part of 
   <a href="mailto:mohdaquib195@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=E8B62C" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile-link">
+  <a href="www.linkedin.com/in/mohammad--aquib">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E8B62C" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Aquib195">
+  <a href="https://github.com/Aquib6544">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E8B62C" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/your-profile-link">
+  <a href="https://www.instagram.com/mohdaquib6544">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E8B62C" alt="Instagram"/>
   </a>
 </div>
@@ -94,7 +94,7 @@ You are welcome to visit the live link to experience the design, but no part of 
 
 <!-- Animated Thank You Message -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=22&pause=1000&color=E8B62C&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+space!;Keep+Coding,+Keep+Creating!+🚀" alt="Typing Greeting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=22&pause=1000&color=E8B62C&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+space%21;Keep+Coding%2C+Keep+Creating%21+%F0%9F%9A%80" alt="Typing Greeting"/>
 </div>
 
 <!-- Premium Waving Footer in Gold -->
